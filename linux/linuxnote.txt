@@ -1,3 +1,5 @@
+Linux 发展大事件
+
 1965 年，Bell 实验室、MIT、GE（通用电气公司）准备开发 Multics 系统，为了同时支持 300 个终端访问主机，但是 1969 年失败了；
 
 那时候并没有鼠标、键盘，输入设备，只有卡片机。因此，如果要测试某个程序，则需要将读卡纸插入卡片机，如果有错误，还需要重新来过；Multics：Multiplexed Information and Computing Service；
@@ -34,6 +36,3 @@ Bill Joy 是 Sun 公司的创始人；
 
 1996 年，Torvalds 发布 Linux-v2.0，确定了 Linux 的吉祥物：企鹅。
 
-来源: 实验楼
-链接: https://www.shiyanlou.com/courses/1
-本课程内容，由作者授权实验楼发布，未经允许，禁止转载、下载及非法传播
