@@ -1,0 +1,39 @@
+1965 年，Bell 实验室、MIT、GE（通用电气公司）准备开发 Multics 系统，为了同时支持 300 个终端访问主机，但是 1969 年失败了；
+
+那时候并没有鼠标、键盘，输入设备，只有卡片机。因此，如果要测试某个程序，则需要将读卡纸插入卡片机，如果有错误，还需要重新来过；Multics：Multiplexed Information and Computing Service；
+
+1969 年，Ken Thompson（C语言之父）利用汇编语言开发了 File Server System（Unics，即 UNIX 的原型）；
+
+因为汇编语言对于硬件的依赖性，因此只能针对特定硬件；
+
+只是为了移植一款“太空旅游”的游戏；
+
+1973 年，Dennis Ritchie 和 Ken Thompson 发明了 C 语言，而后写出了 UNIX 的内核；
+
+将 B 语言改成 C 语言，由此产生了 C 语言之父；90% 的代码是 C 语言写的，10% 的代码用汇编语言写的，因此移植时只要修改那 10% 的代码即可；
+
+1977 年，Berkeley 大学的 Bill Joy 针对他的机器修改了 UNIX 源码，称为BSD（Berkeley Software Distribution）；
+
+Bill Joy 是 Sun 公司的创始人；
+
+1979 年，UNIX 发布 System V，用于个人计算机；
+
+1984 年，因为 UNIX 规定“不能对学生提供源码”，Tanenbaum 老师自己编写兼容于 UNIX 的 Minix，用于教学；
+
+1984 年，Stallman 开始 GNU（GNU's Not Unix）项目，创办 FSF（Free Software Foundation）基金会；
+
+产品：GCC、Emacs、Bash Shell、GLIBC；倡导“自由软件”；GNU 的软件缺乏一个开放的平台运行，只能在 UNIX 上运行；自由软件指用户可以对软件做任何修改，甚至再发行，但是始终要挂着 GPL 的版权；自由软件是可以卖的，但是不能只卖软件，而是卖服务、手册等；
+
+1985 年，为了避免 GNU 开发的自由软件被其他人用作专利软件，因此创建 GPL（General Public License）版权声明；
+
+1988 年，MIT 为了开发 GUI，成立了研发 XFree86 的组织；
+
+1991 年，芬兰赫尔辛基大学的研究生 Linus Torvalds 基于 gcc、bash 开发了针对 386 机器的 Linux 内核；
+
+1994 年，Torvalds 发布 Linux-v1.0；
+
+1996 年，Torvalds 发布 Linux-v2.0，确定了 Linux 的吉祥物：企鹅。
+
+来源: 实验楼
+链接: https://www.shiyanlou.com/courses/1
+本课程内容，由作者授权实验楼发布，未经允许，禁止转载、下载及非法传播
